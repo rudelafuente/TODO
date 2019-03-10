@@ -1,20 +1,12 @@
-﻿<Properties StartupConfiguration="{70B3BA68-17A4-4AA7-B2B7-FABFBA96B702}|Default">
-  <MonoDevelop.Ide.ItemProperties.Todo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/appsettings.json">
-    <Files>
-      <File FileName="Todo/Startup.cs" Line="1" Column="1" />
-      <File FileName="Todo/Program.cs" Line="1" Column="1" />
-      <File FileName="Todo/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="Todo/appsettings.json" Line="1" Column="1" />
-    </Files>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Todo" expanded="True" selected="True" />
+          <Node name="Todo" expanded="True">
+            <Node name="Todo" expanded="True" selected="True" />
+          </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
